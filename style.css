@@ -84,7 +84,7 @@ body{
 }
 
 .course-card{
-    width: 300px;
+    width: 200px;
 
 }
 .course-card img{
@@ -146,4 +146,5 @@ body{
     align-items: center;
     display: flex;
     justify-content: space-between;
+
 }
