@@ -34,7 +34,5 @@ git clone https://github.com/yourusername/your-repo-name.git
 ✨ Thank you for viewing this project!
 Feel free to share suggestions, feedback, or ideas for improvements.
 
----
 
-If you'd like, I can also **add screenshot previews**, **badges**, or **a live demo link section** 😊
 
