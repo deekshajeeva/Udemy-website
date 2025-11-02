@@ -25,7 +25,7 @@ My project is a simple front-end clone of the Udemy online learning platform, cr
 **Local Setup:**
 
 ```
-git clone https://github.com/yourusername/your-repo-name.git
+https://deekshajeeva.github.io/Udemy-website/
 ```
 
 
